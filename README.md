@@ -9,6 +9,7 @@ This repo will not be maintained separately from the [sbt-code-quality](https://
 
 ## Run ##
 
+```
 $ cd play-pmd-checkstyle
 $ play
 [info] Loading project definition from /Users/yuvi/Desktop/play-pmd-checkstyle/project
@@ -31,3 +32,4 @@ play! 2.1.1 (using Java 1.7.0_21 and Scala 2.10.0), http://www.playframework.org
 [info] using pmd args List(/Users/yuvi/Desktop/play-pmd-checkstyle/app, html, /Users/yuvi/Desktop/play-pmd-checkstyle/project/pmd-ruleset.xml, -reportfile, /Users/yuvi/Desktop/play-pmd-checkstyle/target/pmd-report.html)
 [success] Total time: 1 s, completed Jun 5, 2013 1:52:00 PM
 [quality] $
+```
